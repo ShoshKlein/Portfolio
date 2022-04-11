@@ -6,6 +6,8 @@
   --body-color: #111;
 }
 
+
+
 i{
   font-style: italic;
 }
@@ -14,6 +16,7 @@ body {
   margin: 0;  
   font-family: 'Playfair Display', monospace;
   font-weight: 300;
+  background-color: white;
 }
 
 .sub {
@@ -278,68 +281,3 @@ h1, h2 {
   }
 
 }
-
-/*UI Presentation*/
-
-/*h3 here is h1 on project*/
-h3 {
-   font-size: 50pt;
-  text-decoration: underline;
-  margin-bottom: 0em;
-  margin-top: 2em;
-  font-style: italic;
-}
-
-/*h4 here is h2 on project*/
-h4 { font-size: 20pt;
-  margin-top: 0em;
-  margin-bottom: 0em;
-  font-style: italic;
-}
-
-/*h6 here is h3 on project*/
-h6{
-  font-size: 10pt;
-  margin-top: 1em;
-  margin-bottom: 0em;
-  text-align: center;
-}
-
-/*space here is h4 on project*/
-.space{
-    margin-bottom: 15em;
-  margin margin-top: 15em;
-}
-
-/*small here is p on project*/
-.small{
-  font-size: 10pt;
-}
-
-.begin{
-  margin-top: 0em;
-  margin-bottom: 10em;
-}
-
-.inside{
-  text-align: center;
-  padding-left: 10em;
-  padding-right: 10em;
-}
-
-#title{
-width: 30%;
-text-align: center;
-margin: 0 auto;
-}
-
-
-/*ima is title on project*/
-
-#ima{
-width: 100%;
-text-align: center;
-margin: 0em;
-}
-
-
